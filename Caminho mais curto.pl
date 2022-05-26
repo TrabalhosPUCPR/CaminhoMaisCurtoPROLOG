@@ -1,10 +1,3 @@
-% GRUPO :
-% Gabriel Sposito
-% Leonardo Knight
-% Pedro Amadeu
-% Theo Cesar
-% Thomas Frentzel
-
 aresta(a,b).
 aresta(b,e).
 aresta(a,c).
